@@ -9,11 +9,11 @@
 
 Current weight jan 12 2024 - 80kg
 
-TDEE:
-BMR - 1800
-Sedentery - 2200
-Light exercise - 2500
-Moderate exercise - 2800
+TDEE:\
+BMR - 1800\
+Sedentery - 2200\
+Light exercise - 2500\
+Moderate exercise - 2800\
 
 #Calorie deficit.
 
