@@ -45,5 +45,9 @@ Moderate exercise - 2800
 3. Fidgeting & Shivering: A Powerful Science-Supported Method For Fat Loss
 4. How Fidgeting Works: Promotes Epinephrine Release into Fat. “N-E-A-T”
 5. Cold shower: 1-5 per week, ~12C, 1-3 minutes of relax, get in shower till you shiver for 1-2 minutes 3 times.
-6.
-7.
+6. High intensity training followed by moderate-low intensity, fasted.
+7. 100-400mg coffein 30-40 minutes before exercise can lead to more fat oxidazation
+8. Drink yerba mate before before exercise can lead to fat loss
+9. Low carbohydrates for low insulin through the day, more carbs closer to night for better sleep
+10. acytyl-L-carnitine works, have a lot of positive things.
+11. 
