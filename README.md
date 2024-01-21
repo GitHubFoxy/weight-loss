@@ -13,7 +13,7 @@ TDEE:\
 BMR - 1800\
 Sedentery - 2200\
 Light exercise - 2500\
-Moderate exercise - 2800\
+Moderate exercise - 2800
 
 #Calorie deficit.
 
