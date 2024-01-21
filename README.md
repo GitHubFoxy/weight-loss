@@ -32,8 +32,8 @@ Moderate exercise - 2800
 #Cardio
 
 1. Just burns calories
-1. Aim to around 5k-10k
-1. #Sleep
+2. Aim to around 5k-10k
+#Sleep
 1. Sleep is fundumental for fat loss
 
 [Huberman Lab](https://www.youtube.com/watch?v=GqPGXG5TlZw)
